@@ -2,6 +2,3 @@
 
 This is still a work in progress
 
-commit 1
-commit 2
-commit 7
